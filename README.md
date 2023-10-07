@@ -1,4 +1,4 @@
-![MasterHead](https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e479ec091mn1f9499gc00xy9pi51oze824qgkfcnoyc&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![MasterHead](./banner.jpg)
 <br/><br/>
 Hi there 👋, I'm Farhan Ibrahim.
 
