@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Farhan Ibrahim.
-🌱 I’m currently learning a Data Engineering course.
-📫 How to reach me: farhan-02@graduate.utm.my
-⚡ Fun fact: I enjoy being around people who are always striving to improve themselves. I like to treat people with respect, and I really enjoy learning about new technologies.
+#🌱 I’m currently learning a Data Engineering course.
+#📫 How to reach me: farhan-02@graduate.utm.my
+#⚡ Fun fact: I enjoy being around people who are always striving to improve themselves. I like to treat people with respect, and I really enjoy learning about new technologies.
 
 <!--
 **farhanibrhim/farhanibrhim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
