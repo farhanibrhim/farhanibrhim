@@ -1,9 +1,9 @@
-<iframe src="https://giphy.com/embed/3oKIPEqDGUULpEU0aQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ">via GIPHY</a></p>
+![MasterHead](https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e479ec091mn1f9499gc00xy9pi51oze824qgkfcnoyc&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 <br/><br/>
 Hi there 👋, I'm Farhan Ibrahim.
-<br/>🌱 I’m currently learning a Data Engineering course.
-<br/>📫 How to reach me: farhan-02@graduate.utm.my
-<br/>⚡ Fun fact: I enjoy being around people who are always striving to improve themselves. I like to treat people with respect, and I really enjoy learning about new technologies.
+<br/>- 🌱 I’m currently learning a Data Engineering course.
+<br/>- 📫 How to reach me: farhan-02@graduate.utm.my
+<br/>- ⚡ Fun fact: I enjoy being around people who are always striving to improve themselves. I like to treat people with respect, and I really enjoy learning about new technologies.
 
 <!--
 **farhanibrhim/farhanibrhim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
