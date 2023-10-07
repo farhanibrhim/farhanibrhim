@@ -1,3 +1,5 @@
+<iframe src="https://giphy.com/embed/3oKIPEqDGUULpEU0aQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ">via GIPHY</a></p>
+<br/><br/>
 Hi there 👋, I'm Farhan Ibrahim.
 <br/>🌱 I’m currently learning a Data Engineering course.
 <br/>📫 How to reach me: farhan-02@graduate.utm.my
