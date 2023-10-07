@@ -1,4 +1,4 @@
-![MasterHead](./banner.jpg)
+![MasterHead](./1680686961089.jpg)
 <br/><br/>
 Hi there 👋, I'm Farhan Ibrahim.
 
