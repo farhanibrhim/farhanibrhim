@@ -2,7 +2,7 @@
 <br/><br/>
 Hi there 👋, I'm Farhan Ibrahim.
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=farhanibrhim.farhanibrhim)](https://github.com/farhanibrhim) [![GitHub followers](https://img.shields.io/github/followers/farhanibrhim.svg?style=social&label=Follow)](https://github.com/farhanibrhim?tab=followers)
 <br/>- 🌱 I’m currently learning a Data Engineering course.
 <br/>- 📫 How to reach me: farhan-02@graduate.utm.my
 <br/>- ⚡ Fun fact: I enjoy being around people who are always striving to improve themselves. I like to treat people with respect, and I really enjoy learning about new technologies.
