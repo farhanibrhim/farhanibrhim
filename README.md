@@ -1,6 +1,7 @@
 ![MasterHead](./1680686961089.jpg)
 <br/><br/>
-Hi there 👋, I'm Farhan Ibrahim.
+###Hi there 👋 
+<br/>###I'm Farhan Ibrahim.
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=farhanibrhim.farhanibrhim)](https://github.com/farhanibrhim) [![GitHub followers](https://img.shields.io/github/followers/farhanibrhim.svg?style=social&label=Follow)](https://github.com/farhanibrhim?tab=followers)
 <br/>- 🌱 I’m currently learning a Data Engineering course.
