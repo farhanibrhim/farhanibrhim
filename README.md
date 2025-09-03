@@ -4,7 +4,7 @@
 <h3 align="center">Your future Data Engineer</h3>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=farhanibrhim.farhanibrhim)](https://github.com/farhanibrhim) [![GitHub followers](https://img.shields.io/github/followers/farhanibrhim.svg?style=social&label=Follow)](https://github.com/farhanibrhim?tab=followers)
-- 🌱 I’m currently learning a Phyton.
+- 🌱 I’m currently learning a Python.
 - 📫 How to reach me: farhan-02@graduate.utm.my
 - 📄 Know about my experiences in my [resume]()
 - ⚡ Fun fact: I enjoy being around people who are always striving to improve themselves. I like to treat people with respect, and I really enjoy learning about new technologies.
